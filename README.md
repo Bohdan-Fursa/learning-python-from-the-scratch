@@ -3,6 +3,9 @@
 My knowlage for now:
 
 **Basic of Python**
+
+Style_Of_Code: Snake_case
+
 1.Loops
 2.Functions
 3.if-else, flow control
