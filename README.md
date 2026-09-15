@@ -1,6 +1,6 @@
 # Welcome stranger, just for now i learning a basics of python. 
 
-My knowlage for now:
+My knowledge for now:
 
 **Basic of Python**
 
