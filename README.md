@@ -1,14 +1,19 @@
-# Welcome stranger, just for now i learning a basics of python. 
+# This is my journey of learning python from the scratch
 
-My knowledge for now:
+**For know I just came up with an approach to my studies.**
 
-**Basic of Python**
+I will start keeping **Episodes** for each Episode you find the main file where I started.
 
-    Style_Of_Code: Snake_case
+In the main file of episode you find out of check list of my knowledge for now.
+And with this knowledge of that one episode, I will try to establish as many as possible programs.
+Because how i get it for now, programming its about **_giving right instructions_** to computer to achieve your goal.
+And starting from the simplest instructions my help you to build something more then that.
 
-    1.Loops
-    2.Functions
-    3.if-else, flow control
-    4.Variables
+## Week one. And here we go
 
-# See you later..
+**Day 1**
+
+_1. Episode one just begin._
+_2. Starting understand basics of python._
+
+### Also if you find out this useful, i will be very appreciated if you star this repo. Thank you
