@@ -7,7 +7,7 @@ I will start keeping **Episodes** for each Episode you find the main file where 
 In the main file of episode you find out of check list of my knowledge for now.
 And with this knowledge of that one episode, I will try to establish as many as possible programs.
 Because how i get it for now, programming its about **_giving right instructions_** to computer to achieve your goal.
-And starting from the simplest instructions my help you to build something more then that.
+And starting from the simplest instructions it my help you to build something more then that.
 
 ## Week one. And here we go
 
