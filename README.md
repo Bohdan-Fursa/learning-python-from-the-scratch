@@ -13,7 +13,7 @@ And starting from the simplest instructions it my help you to build something mo
 
 **Day 1**
 
-1._Episode one just begin._
-2._Starting understand basics of python._
+1. _Episode one just begin._
+2. _Starting understand basics of python._
 
 ### Also if you find out this useful, i will be very appreciated if you star this repo. Thank you
