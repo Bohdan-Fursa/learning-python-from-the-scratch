@@ -1,6 +1,6 @@
 # This is my journey of learning python from the scratch
 
-**For know I just came up with an approach to my studies.**
+**For now I just came up with an approach to my studies.**
 
 I will start keeping **Episodes** for each Episode you find the main file where I started.
 
@@ -13,7 +13,7 @@ And starting from the simplest instructions it my help you to build something mo
 
 **Day 1**
 
-_1. Episode one just begin._
-_2. Starting understand basics of python._
+1._Episode one just begin._
+2._Starting understand basics of python._
 
 ### Also if you find out this useful, i will be very appreciated if you star this repo. Thank you
